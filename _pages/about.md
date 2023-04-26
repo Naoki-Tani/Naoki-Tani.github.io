@@ -15,6 +15,13 @@ Teaching
 [Programming Exercises for Macroeconomic Policy Making](https://github.com/Naoki-Tani/programming_lecture_kyoto_univ) (Kyoto University, Spring 2023)
 
 
+Skills
+======
+
+  - Julia, Python, Stata
+  - SQL
+  - LaTeX
+
 Contact details
 ======
 Yoshida-honmachi, Sakyo-ku, Kyoto
