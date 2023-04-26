@@ -22,8 +22,8 @@ Skills
   - SQL
   - LaTeX
 
-Contact details
-======
+## Contact details
+
 Yoshida-honmachi, Sakyo-ku, Kyoto
 606-8501 Japan
 
