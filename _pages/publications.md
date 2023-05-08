@@ -17,6 +17,14 @@ Work in Progress
 - A Tractable Model of Multinational Firms’ Internationalization Decisions and Demand Learning (with E. Ogawa)
 
 
+Presentations
+======
+
+- "General Equilibrium Analysis of Fiscal Transfers in an Aging Society" on March 22th, 2023, at [Kyoto University Joint Usage and Research Center](https://www.jur.kier.kyoto-u.ac.jp/project.html) 
+ 
+- "Foreign Direct Investment under Uncertainty: Evidence from Japanese Foreign-Affiliated Firms" on August 29th, 2022, at [RIETI “Exchange Rates and International Currency“ project](https://www.rieti.go.jp/en/projects/program_2020/pg-01/007.html) 
+
+
 <!--
  {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
