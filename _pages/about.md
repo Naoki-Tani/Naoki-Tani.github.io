@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><span style="font-size: 200%"><b>Welcome to <a href="https://naoki-tani.github.io/" target="_blank">Naoki Tani's website</a>!</b></span></p>
+<p><big><b>Welcome to <a href="https://naoki-tani.github.io/" target="_blank">Naoki Tani's website</a>!</b></big></p>
 
 I am a macroeconomist studying how fiscal transfers affect regional disparities and income inequality. I am also interested in the dynamics of multinational firms. I am working at Research Center for Advanced Policy Studies (CAPS), Institute of Economic Research, Kyoto University.
 
