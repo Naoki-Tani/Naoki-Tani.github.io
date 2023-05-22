@@ -11,7 +11,8 @@ redirect_from:
 I am a macroeconomist studying how fiscal transfers affect regional disparities and income inequality. I am also interested in the dynamics of multinational firms. I am working at Research Center for Advanced Policy Studies (CAPS), Institute of Economic Research, Kyoto University.
 
 Teaching
-======
+=====
+<p><a href="https://github.com/Naoki-Tani/programming_lecture_kyoto_univ" target="_blank">Programming Exercises for Macroeconomic Policy Making</a></p> (Kyoto University, Spring 2023)
 [Programming Exercises for Macroeconomic Policy Making](https://github.com/Naoki-Tani/programming_lecture_kyoto_univ){:target="_blank"} (Kyoto University, Spring 2023)
 
 
