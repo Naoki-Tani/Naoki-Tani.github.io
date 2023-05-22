@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Naoki Tani (谷 直起) Home"
 excerpt: "Naoki Tani (谷 直起) Home"
 author_profile: true
 redirect_from: 
