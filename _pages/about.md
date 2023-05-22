@@ -12,7 +12,7 @@ I am a macroeconomist studying how fiscal transfers affect regional disparities 
 
 Teaching
 ======
-[Programming Exercises for Macroeconomic Policy Making](https://github.com/Naoki-Tani/programming_lecture_kyoto_univ) (Kyoto University, Spring 2023)
+[Programming Exercises for Macroeconomic Policy Making](https://github.com/Naoki-Tani/programming_lecture_kyoto_univ){:target="_blank"} (Kyoto University, Spring 2023)
 
 
 Skills
