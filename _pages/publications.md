@@ -19,6 +19,8 @@ Work in Progress
 
 - A Tractable Model of Multinational Firms’ Internationalization Decisions and Demand Learning (with E. Ogawa)
 
+- Rising Income Inequality and Regional Economic Divergence: A Distributional Approach (with T. Ohno and T. Omata)
+
 
 Presentations
 ======
