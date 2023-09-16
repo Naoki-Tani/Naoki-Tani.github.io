@@ -21,6 +21,7 @@ Work in Progress
 
 - Rising Income Inequality and Regional Economic Divergence: A Distributional Approach (with T. Ohno and T. Omata)
 
+- Identifying Customer Needs by Machine Learning-Based Sentiment Analysis (with B. Mao)
 
 Presentations
 ======
