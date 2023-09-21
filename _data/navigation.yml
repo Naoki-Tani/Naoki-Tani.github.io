@@ -9,8 +9,8 @@ main:
   # - title: "Talks"
   #  url: /talks/    
 
-  #- title: "地方自治体での社会実装"
-  #  url: /regionalgov/    
+  - title: "地方自治体との協力"
+    url: /regionalgov/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
