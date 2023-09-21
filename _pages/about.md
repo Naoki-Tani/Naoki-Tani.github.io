@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><big><b>Naoki TANI (谷　直起)</b></big></p>
+<p><big><b>Naoki TANI (谷 直起)</b></big></p>
 
 I am a macroeconomist studying how fiscal transfers affect regional disparities and income inequality. I am also interested in the dynamics of multinational firms. I am working at [Research Center for Advanced Policy Studies (CAPS)](https://www.caps.kier.kyoto-u.ac.jp/staff/), [Institute of Economic Research, Kyoto University](https://www.kier.kyoto-u.ac.jp/en/faculty/).
 
