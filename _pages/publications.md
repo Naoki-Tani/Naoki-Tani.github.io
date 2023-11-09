@@ -17,7 +17,7 @@ Work in Progress
  
     This study examines the effect of the Covid pandemic containment measures on Japan’s consumption, using high-frequency credit card data. Based on the assumption that neighboring municipalities on prefectural borders with different containment policies have an equivalent fear of contagion, this study distinguishes the negative effect of containment measures on consumption from the effect of fear, by employing a synthetic control method. Specifically, it constructs a synthetic control municipality that faces fear equal to that faced by untreated municipalities in the donor pool, and whose post-treatment consumption corresponds to the counterfactual consumption of the treated municipality without containment intervention. Comparing the synthetic control and treated municipalities’ consumption with prefectural borders, allows the identification of the true impact of the containment policies on consumption. These results indicate that, the negative effects of the state of emergency on consumption is much lower than the extreme decline in consumers’ spending.
 
-- A Tractable Model of Multinational Firms’ Internationalization Decisions and Demand Learning (with E. Ogawa)
+- Firms' Internationalization Decisions and Demand Learning (with E. Ogawa), forthcoming
 
 - Rising Income Inequality and Regional Economic Divergence: A Distributional Approach (with T. Ohno and T. Omata)
 
