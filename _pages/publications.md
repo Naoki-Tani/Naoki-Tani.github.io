@@ -26,11 +26,13 @@ Work in Progress
 Presentations
 ======
 
+- "Firms’ Internationalization Decisions and Demand Learning" on November 28th, 2023, at the DP seminar of RIETI
+
 - "Multinational Firms’ Internationalization Decisions and Demand Learning from Neighbors" on October 27th, 2023, at [RIETI “Exchange Rates and International Currency“ project](https://www.rieti.go.jp/en/projects/program_2020/pg-01/007.html)
   
 - "General Equilibrium Analysis of Fiscal Transfers in an Aging Society" on March 22th, 2023, at [Kyoto University Joint Usage and Research Center](https://www.jur.kier.kyoto-u.ac.jp/project.html) 
 
-- "General Equilibrium Analysis of Fiscal Transfers in an Aging Society" on March 14th, 2023, at Policy Research Institute, Ministry of Finance 
+- "General Equilibrium Analysis of Fiscal Transfers in an Aging Society" on March 14th, 2023, at Policy Research Institute, Ministry of Finance
 
 - "Foreign Direct Investment under Uncertainty: Evidence from Japanese Foreign-Affiliated Firms" on August 29th, 2022, at [RIETI “Exchange Rates and International Currency“ project](https://www.rieti.go.jp/en/projects/program_2020/pg-01/007.html) 
 
