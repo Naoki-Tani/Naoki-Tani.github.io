@@ -26,7 +26,7 @@ Work in Progress
 Presentations
 ======
 
-- "Firms’ Internationalization Decisions and Demand Learning" on November 28th, 2023, at the DP seminar of RIETI
+- "Firms’ Internationalization Decisions and Demand Learning"(「企業の国際化の意思決定と需要学習」in Japanese) on November 28th, 2023, at the DP seminar of RIETI
 
 - "Multinational Firms’ Internationalization Decisions and Demand Learning from Neighbors" on October 27th, 2023, at [RIETI “Exchange Rates and International Currency“ project](https://www.rieti.go.jp/en/projects/program_2020/pg-01/007.html)
   
