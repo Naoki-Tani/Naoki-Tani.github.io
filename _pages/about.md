@@ -26,7 +26,7 @@ Skills
 Events
 =====
 <p><a href="https://www.eria.org/events/ERIA-Insightful-Discourses-Firms-Internationalization-Decisions-and-Demand-Learning" target="_blank">Economic Research Institute
-for ASEAN and East Asia (ERIA) </a> (@Jakarta, Indonesia, February 5 (Monday), 2024)</p>
+for ASEAN and East Asia (ERIA) Seminar </a> (@Jakarta, Indonesia, February 5 (Monday), 2024)</p>
 
 ## Contact details
 
