@@ -25,7 +25,8 @@ Skills
 
 Events
 =====
-<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/kier-caps-research-workshop-on-applied-economics/" target="_blank">KIER-CAPS Research Workshop on Applied Economics</a> (Kyoto University, January 12 (Friday), 2024)</p>
+<p><a href="https://www.eria.org/events/ERIA-Insightful-Discourses-Firms-Internationalization-Decisions-and-Demand-Learning" target="_blank">Economic Research Institute
+for ASEAN and East Asia (ERIA) </a> (@Jakarta, Indonesia, February 5 (Monday), 2024)</p>
 
 ## Contact details
 
