@@ -30,6 +30,9 @@ Work in Progress
 Presentations
 ======
 
+- "Firms’ Internationalization Decisions and Demand Learning" on February 5th, 2024, at [Economic Research Institute
+for ASEAN and East Asia (ERIA) Seminar](https://www.eria.org/events/ERIA-Insightful-Discourses-Firms-Internationalization-Decisions-and-Demand-Learning) in Jakarta, Indonesia
+
 - "Firms’ Internationalization Decisions and Demand Learning" on January 12th, 2024, at [KIER-CAPS Research Workshop on Applied Economics](https://www.caps.kier.kyoto-u.ac.jp/events/kier-caps-research-workshop-on-applied-economics/)
 
 - "Firms’ Internationalization Decisions and Demand Learning"(「企業の国際化の意思決定と需要学習」in Japanese) on November 28th, 2023, at the DP seminar of RIETI
