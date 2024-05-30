@@ -28,7 +28,7 @@ Skills
 
 Events
 =====
-<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/kier-caps-workshopfebruary-21-2024/" target="_blank">The 2nd KIER-CAPS Research Workshop on Applied Economics </a> (@Kyoto, March 19 (Tuesday), 2024)</p>
+<p><a href="https://www.jsie.jp/Annual_Meeting/2024s_Tohoku_Gakuin_Univ/prog2_en.html" target="_blank">The 13th Spring Meeting of The Japan Society of International Economics </a> (@Sendai, June 1 (Saturday), 2024)</p>
 
 ## Contact details
 
