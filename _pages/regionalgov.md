@@ -4,6 +4,7 @@ title: "地方自治体との協力"
 permalink: /regionalgov/
 author_profile: true
 ---
+-["「京都大学経済研究所 × 三井住友カード株式会社 × 高知県」 観光振興分析プロジェクト"](https://www.caps.kier.kyoto-u.ac.jp/implementation/implementation-906/)
 
 - ["高知県での少子化対策を通じた地方創生に向けた連携事業"](https://www.caps.kier.kyoto-u.ac.jp/implementation/implementation-615/) (with F. Ohtake) 
 
