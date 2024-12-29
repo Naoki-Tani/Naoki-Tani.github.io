@@ -28,7 +28,7 @@ Skills
 
 Events
 =====
-<p><a href="https://www.jsie.jp/Annual_Meeting/2024s_Tohoku_Gakuin_Univ/prog2_en.html" target="_blank">The 13th Spring Meeting of The Japan Society of International Economics </a> (@Sendai, June 1 (Saturday), 2024)</p>
+<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/events-990/" target="_blank">パネルディスカッション「『社会実装』がSPI（science and policy interface）を切り拓く」@創立20周年記念シンポジウム 「『先端政策研究』の現在地」 </a> (於：京都大学芝蘭会館・稲盛ホール、2025年1月11日)</p>
 
 ## Contact details
 
