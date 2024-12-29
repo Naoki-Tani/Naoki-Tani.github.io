@@ -32,6 +32,8 @@ Work in Progress
 Presentations
 ======
 
+- "Firms’ Internationalization Decisions and Demand Learning" on June 1st, 2024, at [The 13th Spring Meeting of The Japan Society of International Economics](https://www.jsie.jp/Annual_Meeting/2024s_Tohoku_Gakuin_Univ/prog2_en.html)
+
 - "A Note on Multinational Production, Labor Market Polarization, and Wage Inequality" on March 19th, 2024, at [The 2nd KIER-CAPS Research Workshop on Applied Economics](https://www.caps.kier.kyoto-u.ac.jp/events/kier-caps-workshopfebruary-21-2024/)
 
 - "Firms’ Internationalization Decisions and Demand Learning" on February 5th, 2024, at [Economic Research Institute
