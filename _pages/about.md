@@ -28,7 +28,7 @@ Skills
 
 Events
 =====
-<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/events-990/" target="_blank">パネルディスカッション「『社会実装』がSPI（science and policy interface）を切り拓く」@創立20周年記念シンポジウム 「『先端政策研究』の現在地」 </a> (於：京都大学芝蘭会館・稲盛ホール、2025年1月11日)</p>
+<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/the-6-th-kier-caps-research-workshop-on-applied-economics/" target="_blank">The 6 th KIER-CAPS Research Workshop on Applied Economics </a>Venue: First Joint Research Room, 4F, KIER main building, Kyoto University</p>
 
 ## Contact details
 
