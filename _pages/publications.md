@@ -31,6 +31,7 @@ Work in Progress
 
 Presentations
 ======
+- パネルディスカッション「『社会実装』がSPI（science and policy interface）を切り拓く」2025年1月11日、[創立20周年記念シンポジウム 「『先端政策研究』の現在地」(於：京都大学芝蘭会館・稲盛ホール)](https://www.caps.kier.kyoto-u.ac.jp/events/events-990/)
 
 - "Firms’ Internationalization Decisions and Demand Learning" on June 1st, 2024, at [The 13th Spring Meeting of The Japan Society of International Economics](https://www.jsie.jp/Annual_Meeting/2024s_Tohoku_Gakuin_Univ/prog2_en.html)
 
