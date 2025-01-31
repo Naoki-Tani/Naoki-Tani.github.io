@@ -28,7 +28,7 @@ Skills
 
 Events
 =====
-<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/the-6-th-kier-caps-research-workshop-on-applied-economics/" target="_blank">The 6 th KIER-CAPS Research Workshop on Applied Economics </a>Venue: First Joint Research Room, 4F, KIER main building, Kyoto University</p>
+<p><a href="https://www.caps.kier.kyoto-u.ac.jp/events/the-6-th-kier-caps-research-workshop-on-applied-economics/" target="_blank"> The 6 th KIER-CAPS Research Workshop on Applied Economics </a> on February 14 @ Kyoto University</p>
 
 ## Contact details
 
