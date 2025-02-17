@@ -31,6 +31,11 @@ Work in Progress
 
 Presentations
 ======
+
+- "Robust Estimation of Japan’s Gini Coefficient of Individuals’ Earned Income Using Household Survey and Tax Data" on February 17, 2025, at Ryukoku University Seminar
+  
+- "Robust Estimation of Japan’s Gini Coefficient of Individuals’ Earned Income Using Household Survey and Tax Data" on February 14, 2025, at [The 6 th KIER-CAPS Research Workshop on Applied Economics](https://www.caps.kier.kyoto-u.ac.jp/events/the-6-th-kier-caps-research-workshop-on-applied-economics/)
+
 - パネルディスカッション「『社会実装』がSPI（science and policy interface）を切り拓く」2025年1月11日、[創立20周年記念シンポジウム 「『先端政策研究』の現在地」(於：京都大学芝蘭会館・稲盛ホール)](https://www.caps.kier.kyoto-u.ac.jp/events/events-990/)
 
 - "Firms’ Internationalization Decisions and Demand Learning" on June 1st, 2024, at [The 13th Spring Meeting of The Japan Society of International Economics](https://www.jsie.jp/Annual_Meeting/2024s_Tohoku_Gakuin_Univ/prog2_en.html)
