@@ -32,6 +32,8 @@ Work in Progress
 Presentations
 ======
 
+- "Quantifying the Causes of Industrial Wage Inequality and the Skill Premium in a Global Economy" on March 19, 2025, at [The 7 th KIER-CAPS Research Workshop on Applied Economics](https://www.caps.kier.kyoto-u.ac.jp/events/the-7th-kier-caps-research-workshop-on-applied-economics/)
+
 - "Robust Estimation of Japan’s Gini Coefficient of Individuals’ Earned Income Using Household Survey and Tax Data" on February 17, 2025, at Ryukoku University Seminar
   
 - "Robust Estimation of Japan’s Gini Coefficient of Individuals’ Earned Income Using Household Survey and Tax Data" on February 14, 2025, at [The 6 th KIER-CAPS Research Workshop on Applied Economics](https://www.caps.kier.kyoto-u.ac.jp/events/the-6-th-kier-caps-research-workshop-on-applied-economics/)
