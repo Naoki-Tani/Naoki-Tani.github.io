@@ -28,7 +28,7 @@ Skills
 
 Events
 =====
-<p><a href="https://pub.confit.atlas.jp/ja/event/jea2025s/session/2A604-07" target="_blank"> (Japanese Economic Association 2025 Spring Meeting) </a> on May 25 @ Chukyo University</p>
+<p><a href="https://pub.confit.atlas.jp/ja/event/jea2025s/session/2A604-07" target="_blank"> Japanese Economic Association 2025 Spring Meeting </a> on May 25 @ Chukyo University</p>
 
 ## Contact details
 
