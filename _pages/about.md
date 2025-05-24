@@ -30,6 +30,11 @@ Events
 =====
 <p><a href="https://pub.confit.atlas.jp/ja/event/jea2025s/session/2A604-07" target="_blank"> Japanese Economic Association 2025 Spring Meeting </a> on May 25 @ Chukyo University</p>
 
+News
+=====
+[「日本の新型コロナウイルス感染症緊急事態宣言が消費行動へ与えた真の影響」](https://www.ishiyaku.co.jp/search/details.aspx?bookcode=929301), 医学のあゆみ293巻1号（2025年4月）「健康危機への備えと対応 ─パンデミックと能登半島地震を踏まえた社会とシステムのあり方」
+
+
 ## Contact details
 
 Yoshida-honmachi, Sakyo-ku, Kyoto
