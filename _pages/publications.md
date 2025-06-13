@@ -24,8 +24,10 @@ Work in Progress
 - [属性別所得の記述的分析 ―属性間の分布差異の可視化と寄与度分解―](https://www.kier.kyoto-u.ac.jp/wp/wp-content/uploads/2025/06/DP2502.pdf)
 
    1989年から2019年までの全国家計構造調査（旧全国消費実態調査）の個票データより23歳から59歳の課税前所得のデータを使用し、政府が対応する様々な属性間格差について、属性別所得分布のパーセンタイルごとの差異に着目した可視化と、属性間格差と属性内格差の寄与度分解を行う。分析の結果、都道府県間や産業間の格差の寄与率は数％程度である一方、非正規雇用者の所得分布が低所得層に大きく偏っており、就業形態間の格差が25％程度と大きな説明力を持つことを示す。更に、就業形態間の格差は40歳以上59歳以下で大きい傾向にあるが、39歳以下の世代でも就業形態間格差の寄与率は他の属性別の寄与率に比べて高水準であることが確認された。
-  
-- Multinational production and wage inequality (with Y. Uemura)
+
+- Robustly estimating Japan’s Gini coefficient for individuals’ earned income using household survey and tax agency data (with T. Ohno)
+
+- Quantifying the causes of between-industry wage iinequality and the skill premium in a global economy (with Y. Uemura)
 
 - Cannibalizing effects of a popular TV drama series on tourism consumption
 
